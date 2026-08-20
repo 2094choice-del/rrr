@@ -1,0 +1,5 @@
+interface:
+  display_name: "CMS 독서토론 키트"
+  short_description: "발췌문에만 근거한 독서토론 자료 제작과 인용 검증"
+  default_prompt: "Use $cms-debate-kit to create a source-grounded debate kit from my excerpt."
+
